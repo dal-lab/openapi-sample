@@ -48,7 +48,7 @@ paths:
                           type: string
                           description: 할 일
                           example: 숙제하기
-                        createAt:
+                        createdAt:
                           type: string
                           description: 할 일 등록 일시 (UTC)
                           example: "2024-10-01 12:34:56"
